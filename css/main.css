@@ -6,7 +6,7 @@ h4 {
     font-size: 24px;
 }
 .jumbotron {
-    background: url(../images/bg.jpeg);
+    background: url(../images/bg.jpg);
     background-size: cover;
     min-height: 850px;
 }
