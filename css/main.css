@@ -1,9 +1,9 @@
 h1 {
-    font-size: 70px;
+    font-size: 58px;
 }
 
 h4 {
-    font-size: 30px;
+    font-size: 24px;
 }
 .jumbotron {
     background: url(../images/bg.jpeg);
@@ -14,7 +14,7 @@ h4 {
 .navbar-brand {
     background: url(../images/brand.png) no-repeat;
     width: 180px;
-    height: 70px;
+    height: 40px;
 }
 
 .navbar-default {
@@ -33,7 +33,16 @@ h4 {
 }
 
 .navbar-default .navbar-collapse {
-    padding-top: 22px;
+    padding-top: 4px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
 }
 
 .welcome {
