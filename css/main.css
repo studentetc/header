@@ -9,6 +9,7 @@ h4 {
     background: url(../images/bg.jpg);
     background-size: cover;
     min-height: 850px;
+    padding-top: 10px;
 }
 
 .navbar-brand {
@@ -40,15 +41,14 @@ h4 {
     border-color: transparent;
 }
 
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:hover {
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: transparent;
 }
 
 .welcome {
     background: rgba(0, 0, 0, 0.2);
-    color: rgba(256, 256, 256, 0.8);
-    padding: 40px;
+    color: rgba(256, 256, 256, 0.85);
+    padding: 150px;
     text-align: center;
 }
 
